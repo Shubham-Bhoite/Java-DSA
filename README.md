@@ -2,7 +2,7 @@
 
 -  This is my Java + DSA learning journey.
 
-- This journey will Continue Upto 4 to 5 months.
+- This journey will Continue Upto 2 to 2.5 months.
 
 - This will cover following Topics ==>
 
@@ -21,4 +21,4 @@
 -  Data Structure & Algorithms
 
 ## Resources:
--  YouTube (Kunal Kushwaha)
+-  YouTube (Apna College)
