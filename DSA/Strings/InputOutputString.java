@@ -9,5 +9,8 @@ public class InputOutputString {
         String name;
         name = sc.nextLine();
         System.out.println(name);
+
+        String fullname = "Shubham Bhoite";
+        System.out.println(fullname.length());
 }
 }
