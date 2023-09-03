@@ -10,7 +10,7 @@ public class InputOutputString {
         name = sc.nextLine();
         System.out.println(name);
 
-        String fullname = "Shubham Bhoite";
-        System.out.println(fullname.length());
+       /*  String fullname = "Shubham Bhoite";
+        System.out.println(fullname.length()); */
 }
 }
